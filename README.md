@@ -17,7 +17,7 @@ I'm a student from China.
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=orange"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="(https://blog.csdn.net/weixin_45686265"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="https://blog.csdn.net/weixin_45686265"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
 </p>
 
 **About me**
