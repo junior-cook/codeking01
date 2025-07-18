@@ -1,66 +1,56 @@
-### Hi, I am Codeking~👋
-<!--
-**junior-cook/junior-cook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm junior-cook</h1>
+<h3 align="center">🍳 A humble developer, always learning and cooking some code.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a student from China.
-<br/>
+---
+
+### 🚀 About Me
+- ❤️ Passionate about **Java** & **Python**
+- 🌱 Currently exploring **Backend Development**, **Linux**, **Cloud-native**
+- 🛠 Enjoy writing clean code & learning new tech
+- 💬 Ask me anything [here](https://github.com/junior-cook/junior-cook/issues)
+
+---
+
+### 🛠 Tech Stack
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Java&color=orange"/>
-  <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="https://blog.csdn.net/weixin_45686265"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="Vue"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" alt="Redis"></code>
 </p>
 
-**About me**
+---
 
-- ❤️ I love writing Java, and developing some programs.
-
-- 💬 Ask me about anything [here](https://github.com/codeking01/codeking01/issues)
-
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code> 
-
-| <a href="https://github-readme-stats.vercel.app/api?username=codeking01&show_icons=true&theme=transparent"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeking01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="codeking01's github stats" /></a> | <a href="https://github.com/codeking01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeking01&layout=compact&theme=buefy&hide_border=true" /></a>|
+### 📈 GitHub Stats
+| ![Stats](https://github-readme-stats.vercel.app/api?username=junior-cook&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-cook&layout=compact&theme=radical&hide_border=true) |
 | ------------- | ------------- |
 
-#### Top Repositories
-</br>
+---
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=codeking01&theme=dracula)
-</br>
-![Visitor Count](https://profile-counter.glitch.me/codeking01/count.svg)
-</br>
-<!--
-<a href="https://github.com/codeking01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeking01&repo=github-readme-stats&theme=buefy" />
-</a>
--->
-<a href="https://github.com/codeking01/codeking01.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeking01&repo=codeking01.github.io&theme=buefy" />
-</a>
-<br />
-<br />
+### 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=junior-cook&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-<a href="https://twitter.com/codeking03">
-  <img align="right" alt="Anurag  | Twitter" width="21px" src="https://raw.githubusercontent.com/codeking01/codeking01/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/codeking01">
-  <img align="right" alt="codeking01  | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/codeking01/codeking01/master/assets/codesandbox.svg" />
-</a>
+---
+
+### 🔥 Recent Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=junior-cook&theme=github-compact)
+
+---
+
+### 🐍 Snake Animation
+![Snake animation](https://github.com/junior-cook/junior-cook/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 👀 Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=junior-cook&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+**⭐️ From [junior-cook](https://github.com/junior-cook)**
