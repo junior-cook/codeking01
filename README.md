@@ -44,7 +44,7 @@
 ---
 
 ### 🐍 Snake Animation
-![Snake animation](https://github.com/junior-cook/junior-cook/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/junior-cook/junior-cook/raw/main/github-contribution-grid-snake.svg)
 
 ---
 
