@@ -1,24 +1,27 @@
 name: Generate Snake Animation
+
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天运行一次
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Generate Snake
+      - uses: actions/checkout@v3
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: junior-cook
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - name: Push Snake
+          output_path: github-contribution-grid-snake.svg
+      - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: GitHub Action
-          author_email: action@github.com
-          message: "Generate snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: Generate snake animation
+          add: github-contribution-grid-snake.svg
